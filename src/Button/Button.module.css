@@ -1,0 +1,13 @@
+.buttonBase{
+  padding:1rem;
+  border: none;
+
+}
+.buttonLight{
+  background-color: lightgray;
+  color: black;
+}
+.buttonDark{
+  background-color: black;
+  color:white;
+}
